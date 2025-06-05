@@ -1,0 +1,29 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos do Ruby
+.bundle/
+vendor/
+*.gem
+Gemfile.lock
+
+# Logs e temporários
+*.log
+.sass-cache/
+.jekyll-cache/
+_site/
+_site/*
+.jekyll-metadata
+
+# Node (se usar assets modernos)
+node_modules/
+npm-debug.log
+
+# VS Code
+.vscode/
+
+# Windows
+ehthumbs.db
+Icon?
